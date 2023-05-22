@@ -25,4 +25,4 @@ The goal of this project is to create a machine learning model capable of receiv
 
 4. Deploy the function.
 
--Containerize your application using Docker, then deploy your function on Google Cloud Functions or Google Cloud Run. Your function should accept a JSON payload with the input text and return a JSON response with the ranked list of similar item URLs.
+-Deploy your function on Google Cloud Functions or Google Cloud Run.
