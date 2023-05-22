@@ -30,3 +30,8 @@ The goal of this project is to create a machine learning model capable of receiv
 4. Deploy the function.
 
 -Deploy your function on Google Cloud Functions or Google Cloud Run.
+
+
+
+## Demonstration Video
+- https://drive.google.com/drive/folders/1RzSzhCJo2gZOTw0dfXvN8sx_FpXTytZW
