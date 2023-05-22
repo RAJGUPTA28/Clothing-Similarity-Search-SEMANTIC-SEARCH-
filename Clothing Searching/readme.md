@@ -1,6 +1,6 @@
 # Semantic Search with Pinecone Database
 
-![Semantic Search]
+
 This repository contains an implementation of semantic search using the Pinecone database. It leverages the Sentence Transformer library, Pinecone client, and NLTK for natural language processing.
 
 ## Semantic Search
@@ -9,11 +9,6 @@ Semantic search is a technique used to retrieve information based on the meaning
 
 In this project, we use the Sentence Transformer model to encode sentences into dense vectors that capture the semantic meaning. The `all-MiniLM-L6-v2` model from SentenceTransformer is used for this purpose. It is a pre-trained language model fine-tuned on a large corpus of text data.
 
-## Pinecone Database
-
-[Pinecone](https://www.pinecone.io/) is a vector database that provides a scalable and efficient solution for similarity search. It allows us to store and retrieve high-dimensional vectors, making it ideal for semantic search tasks.
-
-## Installation
 
 To run this project, you need to install the required dependencies. 
 - numpy 
@@ -22,6 +17,29 @@ To run this project, you need to install the required dependencies.
 - nltk
 - pinecone-client
 - sentence_transformers
+
+
+## Pinecone Database
+
+[Pinecone](https://www.pinecone.io/) is a vector database that provides a scalable and efficient solution for similarity search. It allows us to store and retrieve high-dimensional vectors, making it ideal for semantic search tasks.
+
+
+
+## Connection
+
+1. Start by initializing the Pinecone client and creating a connection to the Pinecone database:
+
+import pinecone
+
+# Initialize the Pinecone client
+pinecone.init(api_key="YOUR_API_KEY")
+
+# Create a connection to the Pinecone database
+pinecone.create_index(index_name="semantic_search_index", dimension=384)
+
+
+
+
 
 
 
