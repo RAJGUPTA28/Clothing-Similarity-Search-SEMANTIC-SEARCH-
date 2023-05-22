@@ -18,6 +18,7 @@ The goal of this project is to create a machine learning model capable of receiv
 -Develop a method for extracting useful features from the text descriptions. This could involve using techniques like TF-IDF, word embeddings (Word2Vec, GloVe), or more advanced techniques like transformer-based models (BERT, GPT).
 
 -Implement a method to compute the similarity between the input text and the texts in your database. This could be done using methods like cosine similarity or Jaccard similarity.
+
 3. Return ranked results.
 
 -Design a function that accepts a text string, extracts its features, computes similarities with the items in the database, ranks them based on similarity, and returns the URLs of the top-N most similar items.
