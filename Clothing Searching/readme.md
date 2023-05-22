@@ -31,10 +31,10 @@ To run this project, you need to install the required dependencies.
 
 import pinecone
 
-# Initialize the Pinecone client
+2. Initialize the Pinecone client
 pinecone.init(api_key="YOUR_API_KEY")
 
-# Create a connection to the Pinecone database
+3. Create a connection to the Pinecone database
 pinecone.create_index(index_name="semantic_search_index", dimension=384)
 
 
