@@ -21,7 +21,7 @@ To run this project, you need to install the required dependencies.
 
 ## Pinecone Database
 
-[Pinecone](Screenshot 2023-05-22 at 6.37.33 PM.png) is a vector database that provides a scalable and efficient solution for similarity search. It allows us to store and retrieve high-dimensional vectors, making it ideal for semantic search tasks.
+[Pinecone](Pinecone.png) is a vector database that provides a scalable and efficient solution for similarity search. It allows us to store and retrieve high-dimensional vectors, making it ideal for semantic search tasks.
 
 
 
