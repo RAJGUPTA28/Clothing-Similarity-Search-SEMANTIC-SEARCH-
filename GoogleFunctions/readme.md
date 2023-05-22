@@ -7,3 +7,6 @@ This project demonstrates how to deploy a machine learning model as a Google Clo
 - sentence_transformers==2.2.2
 - Flask==2.3.2
 - Flask-Cors==3.0.10
+
+
+[Deployed](gcfunctions.png)
