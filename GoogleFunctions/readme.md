@@ -9,4 +9,4 @@ This project demonstrates how to deploy a machine learning model as a Google Clo
 - Flask-Cors==3.0.10
 
 
-[Deployed](gcfunctions.png)
+[Deployed Google Cloud Functions](gcfunctions.png)
