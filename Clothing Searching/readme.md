@@ -16,12 +16,12 @@ In this project, we use the Sentence Transformer model to encode sentences into 
 ## Installation
 
 To run this project, you need to install the required dependencies. 
-numpy 
-pandas 
-spacy
-nltk
-pinecone-client
-sentence_transformers
+- numpy 
+- pandas 
+- spacy
+- nltk
+- pinecone-client
+- sentence_transformers
 
 
 
