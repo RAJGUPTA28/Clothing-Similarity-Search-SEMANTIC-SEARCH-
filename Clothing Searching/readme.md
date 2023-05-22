@@ -21,12 +21,12 @@ To run this project, you need to install the required dependencies.
 ## Cleaning of Dataset
 
 The clean_text function performs several cleaning operations on the input text:
-It replaces any HTML characters or tags with a space.
-It removes punctuation marks from the text.
-It retains only alphabets and numerics, removing any special characters or symbols.
-It replaces newline characters with a space.
-It converts the text to lowercase.
-It splits the text into individual words, removes any extra spaces, and joins the words back together.
+- It replaces any HTML characters or tags with a space.
+- It removes punctuation marks from the text.
+- It retains only alphabets and numerics, removing any special characters or symbols.
+- It replaces newline characters with a space.
+- It converts the text to lowercase.
+- It splits the text into individual words, removes any extra spaces, and joins the words back together.
 
 
 The lemmatize_words function lemmatizes the words in the input text. Lemmatization is the process of reducing words to their base or root form, typically by considering the word's part of speech
