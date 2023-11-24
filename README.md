@@ -10,6 +10,8 @@ The goal of this project is to create a machine learning model capable of receiv
 
 
 ## Steps:
+-----
+
 
 1. Collect and preprocess data.
 
