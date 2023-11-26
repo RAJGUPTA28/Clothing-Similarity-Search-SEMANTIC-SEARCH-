@@ -10,6 +10,7 @@ The goal of this project is to create a machine learning model capable of receiv
 
 ## What Is Semantic Search?
 Semantic search describes a search engine’s attempt to generate the most accurate SERP results possible by understanding based on searcher intent, query context, and the relationship between words.
+Semantic search is a set of search engine capabilities, which includes understanding words from the searcher's intent and their search context. This type of search is intended to improve the quality of search results by interpreting natural language more accurately and in context
 
 ## Steps:
 -----
