@@ -1,3 +1,5 @@
 # METHODS
 - Semantic Search
-- Elastic Search
+- Elastic Searc
+
+# ELASTIC SEARCH
