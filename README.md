@@ -38,5 +38,6 @@ Semantic search is a set of search engine capabilities, which includes understan
 -Deploy your function on Google Cloud Functions or Google Cloud Run.
 
 
-
+## Demonstration Video
+- https://drive.google.com/drive/folders/1RzSzhCJo2gZOTw0dfXvN8sx_FpXTytZW
 
