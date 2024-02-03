@@ -39,5 +39,4 @@ Semantic search is a set of search engine capabilities, which includes understan
 
 
 
-## Demonstration Video
-- https://drive.google.com/drive/folders/1RzSzhCJo2gZOTw0dfXvN8sx_FpXTytZW
+
