@@ -29,11 +29,7 @@ Semantic search is a set of search engine capabilities, which includes understan
 
 -Implement a method to compute the similarity between the input text and the texts in your database. This could be done using methods like cosine similarity or Jaccard similarity.
 
-3. Return ranked results.
 
--Design a function that accepts a text string, extracts its features, computes similarities with the items in the database, ranks them based on similarity, and returns the URLs of the top-N most similar items.
-
-4. Deploy the function.
 
 -Deploy your function on Google Cloud Functions or Google Cloud Run.
 
