@@ -36,4 +36,8 @@ Semantic search is a set of search engine capabilities, which includes understan
 
 ## Demonstration Video
 - https://drive.google.com/drive/folders/1RzSzhCJo2gZOTw0dfXvN8sx_FpXTytZW
+3. Return ranked results.
 
+-Design a function that accepts a text string, extracts its features, computes similarities with the items in the database, ranks them based on similarity, and returns the URLs of the top-N most similar items.
+
+4. Deploy the function.
