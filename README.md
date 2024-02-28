@@ -1,4 +1,4 @@
-# Clothing Similarity Search
+
 
 
 
